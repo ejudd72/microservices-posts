@@ -1,0 +1,54 @@
+{
+    "terminal.integrated.shell.windows": "C:\\Git\\bin\\bash.exe",
+    // "terminal.integrated.env.windows": {
+    // "CHERE_INVOKING": "1"
+    // },
+
+    // "terminal.integrated.shellArgs.windows": [
+    // "-l"
+    // ],
+    // "vim.useCtrlKeys": false,    
+    // "vim.startInInsertMode": true,
+    // "window.zoomLevel": 0,
+    // "editor.tabSize": 4,
+    // "editor.fontSize": 14,
+    // "editor.wordWrap": "on",
+    // "editor.minimap.enabled": true,
+    // "editor.formatOnPaste": false,
+    // "editor.snippetSuggestions": "top",
+    // "scss.validate": false,
+    // "css.lint.propertyIgnoredDueToDisplay": "ignore",
+    // "css.lint.emptyRules": "ignore",
+    // "css.validate": false,
+    // "extensions.autoUpdate": true,
+    // "html.format.endWithNewline": true,
+    // "files.insertFinalNewline": true,
+    // "extensions.ignoreRecommendations": false,
+    // "editor.accessibilitySupport": "off",
+    // "[javascript]": {
+    //     "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    // },
+    // "editor.codeActionsOnSave": {
+    //     "source.fixAll.eslint": true
+    // },
+    // "eslint.validate": [
+    //     "html",
+    //     "javascript",
+    //     "javascriptreact"
+    // ],
+    // "breadcrumbs.enabled": true,
+    // "eslint.alwaysShowStatus": true,
+    // "files.eol": "\r\n",
+    // "files.autoSave": "afterDelay",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+      },
+	"eslint.validate": [
+		"javascript"
+	],
+	"folders": [
+		{
+			"path": "."
+		}
+	]
+}
